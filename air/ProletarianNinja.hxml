@@ -1,0 +1,13 @@
+-cp src
+-cp inAppPurchase
+-swf swf/client.swf
+-swf-header 900:600:30:FFFFFF
+-swf-lib obj\ProletarianNinjaResources.swf
+--flash-strict
+-swf-version 11.3
+-main Main
+-D spriteParticles
+-D standalone
+-D slbBdCache
+-resource data.json@levelData
+-lib air3

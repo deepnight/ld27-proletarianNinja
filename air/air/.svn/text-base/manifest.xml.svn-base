@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/13.0">
+  <id>com.deepnight.android.Proletarian</id>
+  <versionNumber>0.1</versionNumber>
+  <filename>Proletarian Ninja</filename>
+  <versionLabel>0.1</versionLabel>
+  <supportedProfiles>mobileDevice</supportedProfiles>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <initialWindow>
+    <content>client.swf</content>
+    <fullScreen>true</fullScreen>
+    <aspectRatio>landscape</aspectRatio>
+    <!-- portrait/landscape -->
+    <autoOrients>true</autoOrients>
+    <visible>true</visible>
+    <renderMode>cpu</renderMode>
+    <!-- cpu -->
+    <systemChrome>standard</systemChrome>
+  </initialWindow>
+  <android>
+    <manifestAdditions><![CDATA[<manifest>
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<supports-screens android:normalScreens="true" />
+	<uses-feature android:required="true" android:name="android.hardware.touchscreen.multitouch" />
+	<application android:enabled="true">
+		<activity android:excludeFromRecents="false">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+	</application>
+</manifest>]]></manifestAdditions>
+  </android>
+</application>

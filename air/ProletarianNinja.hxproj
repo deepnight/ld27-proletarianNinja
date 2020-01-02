@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project version="2">
+  <!-- Output SWF options -->
+  <output>
+    <movie outputType="Application" />
+    <movie input="" />
+    <movie path="swf\client.swf" />
+    <movie fps="30" />
+    <movie width="900" />
+    <movie height="600" />
+    <movie version="11" />
+    <movie minorVersion="3" />
+    <movie platform="Flash Player" />
+    <movie background="#FFFFFF" />
+  </output>
+  <!-- Other classes to be compiled into your SWF -->
+  <classpaths>
+    <class path="src" />
+    <class path="inAppPurchase" />
+  </classpaths>
+  <!-- Build options -->
+  <build>
+    <option directives="" />
+    <option flashStrict="True" />
+    <option noInlineOnDebug="False" />
+    <option mainClass="Main" />
+    <option enabledebug="False" />
+    <option additional="-D spriteParticles&#xA;-D standalone&#xA;-D slbBdCache&#xA;-resource data.json@levelData&#xA;-lib air3" />
+  </build>
+  <!-- haxelib libraries -->
+  <haxelib>
+    <!-- example: <library name="..." /> -->
+  </haxelib>
+  <!-- Class files to compile (other referenced classes will automatically be included) -->
+  <compileTargets>
+    <!-- example: <compile path="..." /> -->
+  </compileTargets>
+  <!-- Assets to embed into the output SWF -->
+  <library>
+    <asset path="fonts\04B_03__.TTF" id="def" glyphs="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz '-&quot;'%,?!$&amp;+:/^_\°*.éèêëàäâïîüç0123456789+=&gt;&lt;()[]/âàäéèêëîïôöùûüçáéíóúÁÉÍÓÚÑñ¡¿äÄÖÜß&#xA;" />
+    <asset path="assets\fonts\uni05_53.ttf" id="def" glyphs="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz '-&quot;'%,?!$&amp;+:/^_\°*.éèêëàäâïîüç0123456789+=&gt;&lt;()[]/âàäéèêëîïôöùûüçáéíóúÁÉÍÓÚÑñ¡¿äÄÖÜß&#xA;" />
+  </library>
+  <!-- Paths to exclude from the Project Explorer tree -->
+  <hiddenPaths>
+    <hidden path="obj" />
+  </hiddenPaths>
+  <!-- Executed before build -->
+  <preBuildCommand />
+  <!-- Executed after build -->
+  <postBuildCommand alwaysRun="False" />
+  <!-- Other project options -->
+  <options>
+    <option showHiddenPaths="False" />
+    <option testMovie="OpenDocument" />
+    <option testMovieCommand="index.html" />
+  </options>
+  <!-- Plugin storage -->
+  <storage>
+    <entry key="air-descriptor"><![CDATA[air\manifest.xml]]></entry>
+  </storage>
+</project>

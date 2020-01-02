@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/deepnight/!svn/ver/1072/ProletarianNinjaAir/air
+END
+testAIR.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/deepnight/!svn/ver/981/ProletarianNinjaAir/air/testAIR.bat
+END
+certificate.p12
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/deepnight/!svn/ver/981/ProletarianNinjaAir/air/certificate.p12
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/deepnight/!svn/ver/981/ProletarianNinjaAir/air/build.bat
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/deepnight/!svn/ver/1072/ProletarianNinjaAir/air/manifest.xml
+END
+makeCertificate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/deepnight/!svn/ver/981/ProletarianNinjaAir/air/makeCertificate.bat
+END
+Proletarian.apk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/deepnight/!svn/ver/1072/ProletarianNinjaAir/air/Proletarian.apk
+END

@@ -1,0 +1,149 @@
+msgid "Abandon"
+msgstr "TODO"
+
+msgid "Argh!"
+msgstr "Argh !"
+
+msgid "But hey. You're a ninja, remember?"
+msgstr "Mais bon, vous êtes un ninja après tout."
+
+msgid "Cadaver found"
+msgstr "TODO"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Choose your playstyle"
+msgstr "TODO"
+
+msgid "Consequently, you definitely cannot spend more than 10 SECONDS on each contract."
+msgstr "TODO"
+
+msgid "Cool"
+msgstr "TODO"
+
+msgid "Fast paced!"
+msgstr "TODO"
+
+msgid "Freeze!"
+msgstr "TODO"
+
+msgid "Game paused..."
+msgstr "Carnage en pause..."
+
+msgid "Kill everyone the way you want."
+msgstr "TODO"
+
+msgid "Kill'em ALL!"
+msgstr "Tuez les tous !"
+
+msgid "Level "
+msgstr "TODO"
+
+msgid "Level complete"
+msgstr "Mission terminée"
+
+msgid "Peace is for the weak."
+msgstr "La paix, c'est pour les faibles."
+
+msgid "Problem is: you really have many many people on your Kill List."
+msgstr "Le problème, c'est qu'il y a vraiment BEAUCOUP de monde à tuer."
+
+msgid "Quit game"
+msgstr "Quitter le jeu"
+
+msgid "RESUME"
+msgstr "TODO"
+
+msgid "RULE: Don't kill dogs
+
+Puppies are soup ingredient, not targets."
+msgstr "TODO"
+
+msgid "RULE: Kill everyone
+
+The way of the Proletarian Ninja is of Vengeance. Kill everyone who is richer than you."
+msgstr "TODO"
+
+msgid "RULE: Kill everyone QUICKLY
+
+The way of the Proletarian Ninja is of Vengeance. Kill everyone who is richer than you within 10 seconds."
+msgstr "TODO"
+
+msgid "RULE: Stay out of sight
+
+The way of the Ninja lies beneath the veil of darkness. No one can spot a Ninja."
+msgstr "TODO"
+
+msgid "Restart level"
+msgstr "Recommencer le niveau"
+
+msgid "Select your level:"
+msgstr "TODO"
+
+msgid "Shuriken x"
+msgstr "TODO"
+
+msgid "Speed bonus:"
+msgstr "TODO"
+
+msgid "Spotted!"
+msgstr "Repéré !"
+
+msgid "Tactical"
+msgstr "TODO"
+
+msgid "Take that, bourgeois."
+msgstr "Prends ça, bourgeois."
+
+msgid "The enemy will only move when you do."
+msgstr "TODO"
+
+msgid "The year is 1930. You are the Proletarian Ninja X. You fight Capitalism with murder and violence."
+msgstr "Nous sommes en 1930. Vous êtes le Proletarian Nina X : vous combattez le Grand Capitalisme par le meurtre et le sang."
+
+msgid "Time out!"
+msgstr "Temps écoulé !"
+
+msgid "You have 10 SECONDS to kill everyone!"
+msgstr "TODO"
+
+msgid "You killed a dog!"
+msgstr "TODO"
+
+#. ---------------------------------------- TRASH
+#. msgid "Back to the game"
+#. msgstr "Retour au jeu"
+
+#. msgid "Consequently, you definitely cannot spend more than 15 SECONDS on each contract."
+#. msgstr "Du coup, vous ne pouvez clairement pas passer plus de 15 SECONDES sur chaque contrat."
+
+#. msgid "Consequently, you definitely cannot spend more than ::t:: SECONDS on each contract."
+#. msgstr "Du coup, vous ne pouvez clairement pas passer plus de ::t:: SECONDES sur chaque contrat."
+
+#. msgid "Corpse discovered"
+#. msgstr "Corps découvert"
+
+#. msgid "Main menu"
+#. msgstr "Menu principal"
+
+#. msgid "Ninja difficulty!"
+#. msgstr "Difficulté Ninja !"
+
+#. msgid "Normal difficulty"
+#. msgstr "Difficulté normale"
+
+#. msgid "Ready..."
+#. msgstr "Préparez-vous..."
+
+#. msgid "Stay out of sight. Kill everyone within 10s!"
+#. msgstr "Ne vous faites pas voir. Eliminez tout le monde en 10 SECONDES."
+
+#. msgid "Stay out of sight. Kill everyone within ::t::s!"
+#. msgstr "Ne vous faites pas voir. Eliminez tout le monde en ::t:: SECONDES."
+
+#. msgid "The original difficulty setting: only 10 SECONDS to kill everyone!"
+#. msgstr "La difficulté originale : seulement 10 SECONDES pour tuer tout le monde !"
+
+#. msgid "You have 15 SECONDS to kill everyone."
+#. msgstr "Vous avez 15 SECONDES pour tuer tout le monde."

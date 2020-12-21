@@ -10,4 +10,4 @@
 -D standalone
 -D slbBdCache
 -resource data.json@levelData
--lib air3
+-lib air
